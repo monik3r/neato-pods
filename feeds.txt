@@ -9,6 +9,10 @@ http://feeds.99percentinvisible.org/99percentinvisible
 http://feeds.wnyc.org/radiolab
 http://feed.thisamericanlife.org/talpodcast
 https://feeds.megaphone.fm/revisionisthistory
+https://kplu.drupal.publicbroadcasting.net/podcasts/76811/rss.xml
+https://feeds.npr.org/510355/podcast.xml
+https://wxpr.drupal.publicbroadcasting.net/podcasts/76880/rss.xml
+https://www.knkx.org/podcasts/78797/rss.xml
 
 # Legal/Politics
 https://allthepresidentslawyers-feed.kcrw.com/
